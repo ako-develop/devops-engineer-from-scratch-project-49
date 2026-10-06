@@ -22,7 +22,16 @@ cd devops-engineer-from-scratch-project-49
 
 ## Использование
 
-<!-- Добавьте примеры запуска и запись asciinema — именно это смотрит работодатель -->
+### Проверка на чётность
+
+Программа показывает случайное число. Ответьте `yes`, если оно чётное,
+и `no`, если нечётное. Три верных ответа подряд — победа.
+
+```bash
+brain-even
+```
+
+[![asciicast](https://asciinema.org/a/vCPF9cuvNw4DmLGd.svg)](https://asciinema.org/a/vCPF9cuvNw4DmLGd)
 
 ---
 
