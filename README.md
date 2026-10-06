@@ -33,6 +33,17 @@ brain-even
 
 [![asciicast](https://asciinema.org/a/vCPF9cuvNw4DmLGd.svg)](https://asciinema.org/a/vCPF9cuvNw4DmLGd)
 
+### Калькулятор
+
+Программа показывает случайное выражение со сложением, вычитанием
+или умножением. Введите результат. Три верных ответа подряд — победа.
+
+```bash
+brain-calc
+```
+
+[![asciicast](https://asciinema.org/a/L1X3RWWFJcyACCI3.svg)](https://asciinema.org/a/L1X3RWWFJcyACCI3)
+
 ---
 
 <details>
