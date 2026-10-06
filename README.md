@@ -44,6 +44,17 @@ brain-calc
 
 [![asciicast](https://asciinema.org/a/L1X3RWWFJcyACCI3.svg)](https://asciinema.org/a/L1X3RWWFJcyACCI3)
 
+### Наибольший общий делитель
+
+Программа показывает два случайных числа. Введите их наибольший общий
+делитель. Три верных ответа подряд — победа.
+
+```bash
+brain-gcd
+```
+
+[![asciicast](https://asciinema.org/a/dwZ13IeqiQv1B8uw.svg)](https://asciinema.org/a/dwZ13IeqiQv1B8uw)
+
 ---
 
 <details>
