@@ -66,6 +66,17 @@ brain-progression
 
 [![asciicast](https://asciinema.org/a/ECOB9pTHyHhCBSOs.svg)](https://asciinema.org/a/ECOB9pTHyHhCBSOs)
 
+### Простое ли число
+
+Программа показывает случайное число. Ответьте `yes`, если оно простое,
+и `no`, если составное. Три верных ответа подряд — победа.
+
+```bash
+brain-prime
+```
+
+[![asciicast](https://asciinema.org/a/Z83zQFSJxPuCGxW7.svg)](https://asciinema.org/a/Z83zQFSJxPuCGxW7)
+
 ---
 
 <details>
