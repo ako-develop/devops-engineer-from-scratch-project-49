@@ -55,6 +55,17 @@ brain-gcd
 
 [![asciicast](https://asciinema.org/a/dwZ13IeqiQv1B8uw.svg)](https://asciinema.org/a/dwZ13IeqiQv1B8uw)
 
+### Арифметическая прогрессия
+
+Программа показывает ряд чисел с постоянным шагом, одно число скрыто
+за `..`. Введите пропущенное число. Три верных ответа подряд — победа.
+
+```bash
+brain-progression
+```
+
+[![asciicast](https://asciinema.org/a/ECOB9pTHyHhCBSOs.svg)](https://asciinema.org/a/ECOB9pTHyHhCBSOs)
+
 ---
 
 <details>
